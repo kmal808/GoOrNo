@@ -4,12 +4,13 @@
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<title>Go or No - Surf Reporting Made Simple</title>
+		<script src="https://unpkg.com/htmx.org"></script>
 		<link rel="stylesheet" href="style.css" />
 	</head>
 	<body>
 		<h1>Go or No - Surf Reporting Made Simple</h1>
 		<div id="location">Loading your location...</div>
-		<div id="surfReport">Loading surf report...</div>
+		<div hx-get="/surfreport" hx-trigger="load" id="surfReport">Loading surf report...</div>
 		<div id="surfDecision"></div>
 		<script src="app.js"></script>
 	</body>

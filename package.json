@@ -1,0 +1,19 @@
+{
+  "name": "goorno",
+  "module": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "bun run index.js"
+  },
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@stricjs/router": "^5.0.6",
+    "@stricjs/utils": "^1.6.1",
+    "figlet": "^1.7.0"
+  }
+}
