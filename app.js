@@ -38,8 +38,8 @@ const fetchSurfReport = (spotID) => {
 
 const makeDecision = (report) => {
 	// todo - logic to decide if the user should go surfing or not
-	//& assuming for now that if the waves are above 5ft then it's a thumbs up
-	if (report.includes('5ft')) {
+	//& assuming for now that a rating of GOOD is a go
+	if (report.includes('"key": "GOOD"')) {
 		document.getElementById(surfDecision).textContent = '👍 GTG!!'
 	} else {
 		document.getElementById(surfDecision).textContent =
