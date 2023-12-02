@@ -1,0 +1,193 @@
+{
+	"associated": {
+		"units": {
+			"temperature": "F",
+			"tideHeight": "FT",
+			"swellHeight": "FT",
+			"waveHeight": "FT",
+			"windSpeed": "KTS",
+			"pressure": "MB"
+		},
+		"utcOffset": -8
+	},
+	"data": {
+		"conditions": [
+			{
+				"timestamp": 1701417600,
+				"forecastDay": "2023-12-01",
+				"forecaster": {
+					"name": "Schaler Perry",
+					"avatar": "https://www.gravatar.com/avatar/ea1e9a0c570c61d61dec3cf6ea26a85e?d=mm"
+				},
+				"human": true,
+				"observation": "Continued WNW/NW swell joined by a rise in shorter period NW swell. Blow through of WNW/NW winds looking likely with sheltered breaks the only real option for clean surf.",
+				"am": {
+					"timestamp": 1701439200,
+					"observation": "Small short period waves from the W. Light and variable winds with clean conditions.",
+					"rating": "POOR_TO_FAIR",
+					"minHeight": 2,
+					"maxHeight": 3,
+					"plus": false,
+					"humanRelation": "Thigh to waist",
+					"occasionalHeight": null
+				},
+				"pm": {
+					"timestamp": 1701460800,
+					"observation": "Small short period waves from the W. Light W winds with semi clean to slightly sideshore textured conditions.",
+					"rating": "POOR_TO_FAIR",
+					"minHeight": 2,
+					"maxHeight": 3,
+					"plus": false,
+					"humanRelation": "Thigh to waist",
+					"occasionalHeight": null
+				},
+				"utcOffset": -8
+			},
+			{
+				"timestamp": 1701504000,
+				"forecastDay": "2023-12-02",
+				"forecaster": {
+					"name": "Schaler Perry",
+					"avatar": "https://www.gravatar.com/avatar/ea1e9a0c570c61d61dec3cf6ea26a85e?d=mm"
+				},
+				"human": true,
+				"observation": "Mainly old NW swell mix but will also have newer NW swell nudging up with a bit more period on it. AM window looks clean, just note the high tide by late morning.",
+				"am": {
+					"timestamp": 1701525600,
+					"observation": "Very small short period waves from the W. Light and variable winds with clean conditions.",
+					"rating": "POOR_TO_FAIR",
+					"minHeight": 1,
+					"maxHeight": 2,
+					"plus": false,
+					"humanRelation": "Knee to thigh",
+					"occasionalHeight": null
+				},
+				"pm": {
+					"timestamp": 1701547200,
+					"observation": "Very small very short period waves from the W. Light and variable winds with clean conditions.",
+					"rating": "POOR_TO_FAIR",
+					"minHeight": 1,
+					"maxHeight": 2,
+					"plus": false,
+					"humanRelation": "Knee to thigh",
+					"occasionalHeight": null
+				},
+				"utcOffset": -8
+			},
+			{
+				"timestamp": 1701590400,
+				"forecastDay": "2023-12-03",
+				"forecaster": {
+					"name": "Schaler Perry",
+					"avatar": "https://www.gravatar.com/avatar/ea1e9a0c570c61d61dec3cf6ea26a85e?d=mm"
+				},
+				"human": true,
+				"observation": "Lingering NW swell for more small/rideable surf. AM window looks clean, just note the high tide by late morning.",
+				"am": {
+					"timestamp": 1701612000,
+					"observation": "Very small mid period waves from the WNW. Light and variable winds with clean conditions.",
+					"rating": "POOR_TO_FAIR",
+					"minHeight": 1,
+					"maxHeight": 2,
+					"plus": false,
+					"humanRelation": "Knee to thigh",
+					"occasionalHeight": null
+				},
+				"pm": {
+					"timestamp": 1701633600,
+					"observation": "Very small mid period waves from the WNW. Light and variable winds with clean conditions.",
+					"rating": "POOR_TO_FAIR",
+					"minHeight": 1,
+					"maxHeight": 2,
+					"plus": false,
+					"humanRelation": "Knee to thigh",
+					"occasionalHeight": null
+				},
+				"utcOffset": -8
+			},
+			{
+				"timestamp": 1701676800,
+				"forecastDay": "2023-12-04",
+				"forecaster": {
+					"name": "Schaler Perry",
+					"avatar": "https://www.gravatar.com/avatar/ea1e9a0c570c61d61dec3cf6ea26a85e?d=mm"
+				},
+				"human": true,
+				"observation": "The weekends NW swell mix eases as a new round of steep-angled NW swell shows. Mostly small scale surf across the region.",
+				"am": {
+					"timestamp": 1701698400,
+					"observation": "Very small very short period waves from the W. Light and variable winds with clean conditions.",
+					"rating": "POOR_TO_FAIR",
+					"minHeight": 1,
+					"maxHeight": 2,
+					"plus": false,
+					"humanRelation": "Knee to thigh",
+					"occasionalHeight": null
+				},
+				"pm": {
+					"timestamp": 1701720000,
+					"observation": "Very small very short period waves from the W. Light and variable winds with clean conditions.",
+					"rating": "POOR_TO_FAIR",
+					"minHeight": 1,
+					"maxHeight": 2,
+					"plus": false,
+					"humanRelation": "Knee to thigh",
+					"occasionalHeight": null
+				},
+				"utcOffset": -8
+			},
+			{
+				"timestamp": 1701763200,
+				"forecastDay": "2023-12-05",
+				"forecaster": {
+					"name": "Schaler Perry",
+					"avatar": "https://www.gravatar.com/avatar/ea1e9a0c570c61d61dec3cf6ea26a85e?d=mm"
+				},
+				"human": true,
+				"observation": "Small, steep-angled NW swell lingers. Mostly small scale surf across the region. Morning winds look light. ",
+				"am": {
+					"timestamp": 1701784800,
+					"observation": "Very small long period waves from the W. Light and variable winds with clean conditions.",
+					"rating": "POOR_TO_FAIR",
+					"minHeight": 1,
+					"maxHeight": 2,
+					"plus": false,
+					"humanRelation": "Knee to thigh",
+					"occasionalHeight": null
+				},
+				"pm": {
+					"timestamp": 1701806400,
+					"observation": "Very small long period waves from the W. Light and variable winds with clean conditions.",
+					"rating": "POOR_TO_FAIR",
+					"minHeight": 1,
+					"maxHeight": 2,
+					"plus": false,
+					"humanRelation": "Knee to thigh",
+					"occasionalHeight": null
+				},
+				"utcOffset": -8
+			}
+		]
+	},
+	"permissions": {
+		"data": [],
+		"violations": [
+			{
+				"code": 4001,
+				"message": "User does not have optional permission:sl_premium-forecasts",
+				"permission": {
+					"name": "sl_premium-forecasts",
+					"required": false
+				}
+			},
+			{
+				"code": 4001,
+				"message": "User does not have optional permission:sl_premium-cams",
+				"permission": {
+					"name": "sl_premium-cams",
+					"required": false
+				}
+			}
+		]
+	}
+}
