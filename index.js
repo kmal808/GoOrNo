@@ -1,6 +1,11 @@
 import { serve, File } from 'bun'
-import figlet from 'figlet'
-import apiRoutes from './apiRoutes.js'
+import {
+	waveURL,
+	ratingURL,
+	windURL,
+	tidesURL,
+	weatherURL,
+} from './apiRoutes.js'
 
 const server = Bun.serve({
 	port: 3030,
